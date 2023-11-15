@@ -49,3 +49,20 @@ f1()
 # 2        MySirG
 # 1        MySirG
 
+"""
+        Function call vs Function Definition
+
+    Function Definition 
+
+                def f1():
+                    code
+                    code
+    Function call
+
+    f1()
+    f1()
+    once function is defined , it can be called any number of times
+    
+    
+
+"""
