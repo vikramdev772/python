@@ -10,4 +10,9 @@ match month:
     case _:
         print("\n\t Invalid Month number \n")
 print()
- 
+#   Enter month number : 7
+
+#          31 Days 
+
+
+
