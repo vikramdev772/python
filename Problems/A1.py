@@ -1,3 +1,6 @@
+# write a python script to display the number of days in a given number .
+
+
 
 month = int(input("\n\t Enter month number : "))
 match month:
@@ -13,6 +16,8 @@ print()
 #   Enter month number : 7
 
 #          31 Days 
+
+
 
 
 
